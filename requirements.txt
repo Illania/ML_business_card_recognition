@@ -1,0 +1,6 @@
+transformers
+streamlit
+pillow
+tesseract
+pytesseract
+imutils
